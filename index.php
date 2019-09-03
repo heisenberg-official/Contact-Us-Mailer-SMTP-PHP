@@ -26,7 +26,7 @@
         <!-- Success Message -->
         <div id="msgSubmit" class="text-center hidden"></div>
         </div>
-        </form>
+</form>
     
     <!-- //// JAVA SCRIPT //// -->
 	<script type="text/javascript">
