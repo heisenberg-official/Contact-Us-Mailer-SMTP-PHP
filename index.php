@@ -1,10 +1,8 @@
-
-			<form id="contactForm" data-toggle="validator">
-                            <div class="form-group">
-                                <!-- Name Field -->
-                                <input id="name" placeholder="Name" class="form-control" data-error="Name is required">
-                                <div class="help-block with-errors"></div>
-                            </div>
+<form id="contactForm" data-toggle="validator">
+	<div class="form-group">
+        <input id="name" placeholder="Name" class="form-control" data-error="Name is required">
+        <div class="help-block with-errors"></div>
+	</div>
 
                             <div class="form-group">
                                 <!-- Email Field -->
